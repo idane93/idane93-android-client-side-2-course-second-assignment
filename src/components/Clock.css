@@ -1,0 +1,11 @@
+.clock {
+    margin-right: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid #3a3a3a;
+    border-radius: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    float: right;
+    background-color: #40005d;
+    color: #ffffff;
+}
